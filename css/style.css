@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+    font-family: lator, sans-serif;
+}
+
+.content {
+    color: #333;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fontExample {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
